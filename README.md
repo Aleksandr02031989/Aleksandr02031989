@@ -11,7 +11,7 @@ I am looking for a team where I can continue to develop as a Manual Test Enginee
 * Currently learning JavaScript
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,git,JIRA,Postman,linux&perline=8)
+[My Skills](https://skillicons.dev/icons?i=html,css,git,linux&perline=8)
 ## My experience
 **Game**:
 - 🧠 [Brain Games](https://github.com/Aleksandr02031989/Brain-Games)- - A set of five console games based on the principle of popular mobile applications for brain training.
