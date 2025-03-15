@@ -13,7 +13,7 @@ I am looking for a team where I can continue to develop as a Manual Test Enginee
 * * 📄  [My CV]()
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,git,npm,linux&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,npm,linux&perline=8)](https://skillicons.dev)
 
 ## My experience
 **Web Application**:
