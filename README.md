@@ -10,7 +10,7 @@ I am looking for a team where I can continue to develop as a Manual Test Enginee
 * 🌍 Location Based in Yoshkar-Ola, Russia.
 * 📫 Contact Me Email: [pauk7911@gmail.com](mailto:pauk7911@gmail.com) or at [Telegram](https://t.me/Aleksandrka123)
 * 📚 Currently Learning JavaScript to expand my technical skills and explore automation testing opportunities.
-* * 📄  [My CV]()
+* * 📄  [My CV](https://cv.hexlet.io/ru/resumes/16464)
 
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,npm,linux&perline=8)](https://skillicons.dev)
