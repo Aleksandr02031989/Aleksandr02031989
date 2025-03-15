@@ -17,7 +17,6 @@ I am looking for a team where I can continue to develop as a Manual Test Enginee
 
 ## My experience
 **Web Application**:
-**Game**:
 - 🧠 [Brain Games](https://github.com/Aleksandr02031989/Brain-Games)- A set of five console games inspired by popular brain-training mobile applications. Tested game logic, functionality, and user experience.
 - 🎮 [Multiplayer Game](https://github.com/Aleksandr02031989/qa-engineer-project-85)- Tested a multiplayer game with features like real-time competition, chat, and ranking systems.
 - 🌐 [Online Store](https://github.com/Aleksandr02031989/Testing-an-online-store)- Conducted manual testing of an e-commerce platform, including creating test cases, executing tests, and reporting bugs.
